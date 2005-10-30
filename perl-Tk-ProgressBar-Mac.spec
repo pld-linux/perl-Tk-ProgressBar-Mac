@@ -9,7 +9,7 @@ Summary:	Tk::ProgressBar::Mac - a blue, 3-D Macintosh Classic progress bar
 Name:		perl-Tk-ProgressBar-Mac
 Version:	1.2
 Release:	0.3
-# same as perl (REMOVE THIS LINE IF NOT TRUE)
+# same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz

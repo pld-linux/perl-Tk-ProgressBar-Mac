@@ -3,13 +3,13 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Tk
-%define	pnam	ProgressBar-Mac
+%define		pdir	Tk
+%define		pnam	ProgressBar-Mac
 Summary:	Tk::ProgressBar::Mac - a blue, 3-D Macintosh Classic progress bar
 Summary(pl):	Tk::ProgressBar::Mac - niebieski, trójwymiarowy pasek postêpu z Macintosha Classic
 Name:		perl-Tk-ProgressBar-Mac
 Version:	1.2
-Release:	0.3
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl

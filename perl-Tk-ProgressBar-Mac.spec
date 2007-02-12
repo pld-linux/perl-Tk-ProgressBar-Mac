@@ -6,7 +6,7 @@
 %define		pdir	Tk
 %define		pnam	ProgressBar-Mac
 Summary:	Tk::ProgressBar::Mac - a blue, 3-D Macintosh Classic progress bar
-Summary(pl):	Tk::ProgressBar::Mac - niebieski, trójwymiarowy pasek postêpu z Macintosha Classic
+Summary(pl.UTF-8):   Tk::ProgressBar::Mac - niebieski, trÃ³jwymiarowy pasek postÄ™pu z Macintosha Classic
 Name:		perl-Tk-ProgressBar-Mac
 Version:	1.2
 Release:	1
@@ -28,12 +28,12 @@ west, within which you can stuff additional widgets. For example, see
 how Tk::Copy::Mac uses several Labels and a CollapsableFrame widget to
 create a reasonable facsimile of a Macintosh copy dialog.
 
-%description -l pl
-Ten widget udostêpnia dynamiczny obrazek wygl±daj±cy jak pasek postêpu
-z systemu Mac OS 9. Jest opakowany w cztery ramki (Frame): pó³nocn±,
-po³udniow±, wschodni± i zachodni±, w których mo¿na umieszczaæ
-dodatkowe widgety. Na przyk³ad Tk::Copy::Mac u¿ywa kilku etykiet
-(Label) i widgetu CollapsableFrame do stworzenia w miarê podobnego do
+%description -l pl.UTF-8
+Ten widget udostÄ™pnia dynamiczny obrazek wyglÄ…dajÄ…cy jak pasek postÄ™pu
+z systemu Mac OS 9. Jest opakowany w cztery ramki (Frame): pÃ³Å‚nocnÄ…,
+poÅ‚udniowÄ…, wschodniÄ… i zachodniÄ…, w ktÃ³rych moÅ¼na umieszczaÄ‡
+dodatkowe widgety. Na przykÅ‚ad Tk::Copy::Mac uÅ¼ywa kilku etykiet
+(Label) i widgetu CollapsableFrame do stworzenia w miarÄ™ podobnego do
 Macintosha okna dialogowego kopiowania.
 
 %prep

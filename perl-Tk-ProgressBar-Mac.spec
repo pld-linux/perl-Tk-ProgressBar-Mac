@@ -6,7 +6,7 @@
 %define		pdir	Tk
 %define		pnam	ProgressBar-Mac
 Summary:	Tk::ProgressBar::Mac - a blue, 3-D Macintosh Classic progress bar
-Summary(pl.UTF-8):   Tk::ProgressBar::Mac - niebieski, trójwymiarowy pasek postępu z Macintosha Classic
+Summary(pl.UTF-8):	Tk::ProgressBar::Mac - niebieski, trójwymiarowy pasek postępu z Macintosha Classic
 Name:		perl-Tk-ProgressBar-Mac
 Version:	1.2
 Release:	1
